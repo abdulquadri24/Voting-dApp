@@ -1,0 +1,20 @@
+🔑 Private key: 6a782ab3f9bc8fdd9b19648d50e0d3a99af33ffd5878a6dea4eaa08f051138e5
+🔐 Mnemonic phrase: blast approve pink quarter release explain hurry vacant valley join tissue belt
+😃 EVM address: 0xB653D03bAb2DdF532a3012F5cE6756788Ac04BB6
+😃 Bitcoin address: tb1q2wnd2hznaspqkug8n3emr7ydh5qkukvt5g68nt
+😃 Bech32 address: zeta1kefaqwat9h04x23szt6uue6k0z9vqjakceekak
+
+✅ Saved the private key to '/workspace/Omnichain-NFT-Smart-Contract/template/.env' file.
+
+
+
+🔑 Using account: 0xB653D03bAb2DdF532a3012F5cE6756788Ac04BB6
+
+🚀 Successfully deployed contract on ZetaChain.
+📜 Contract address: 0x9CAA2C3e4BBC8E8FAC86c60E3271f0de496b4C9E
+🌍 Explorer: https://athens3.explorer.zetachain.com/address/0x9CAA2C3e4BBC8E8FAC86c60E3271f0de496b4C9E
+
+
+npx hardhat interact --contract 0x9CAA2C3e4BBC8E8FAC86c60E3271f0de496b4C9E --amount 0.2 --network mumbai_testnet --recipient 0xB653D03bAb2DdF532a3012F5cE6756788Ac04BB6
+
+
